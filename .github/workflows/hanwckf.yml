@@ -9,7 +9,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: CMCC_RAX3000M
+name: CMCC_RAX3000M-hanwckf
 
 on:
   repository_dispatch:
